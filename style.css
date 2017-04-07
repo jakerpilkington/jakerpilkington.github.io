@@ -3,5 +3,10 @@ body {
 }
 
 .title {
+	color: #FF69B4;
 	font-size: 40px;
+	transition: color 2s;
+}
+.title:hover {
+	color: #9999FF;
 }
