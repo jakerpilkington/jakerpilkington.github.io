@@ -1,0 +1,70 @@
+body {
+	font-family: Tahoma;
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.title {
+	color: blue;
+}
+
+.homepage {
+	background-color: blue;
+	color: white;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 2.5%;
+}
+
+.introduction {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+}
+
+.about {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2.5%;
+	padding-bottom: 5%;
+}
+.banner-item {
+	text-align: center;
+	background-color: #ADD8E6;
+	width: 25%;
+	height: 25px;
+}
+.banner-item:hover {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+}
+a:link {
+	color: black;
+}
+.logininput {
+	display: inline;
+}
+.logintext {
+	display: inline;
+}
