@@ -35,7 +35,9 @@
 		<div class="title">
 			<br>
 		  <h1>Jake's Space<br><span style="font-size: 25px;">the web is wonderful</span></h1>
-
+		<?php
+            echo "Hi, I'm a PHP script!";
+        ?>
 			<br>
 		</div>
 		
